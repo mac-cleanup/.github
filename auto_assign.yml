@@ -1,0 +1,7 @@
+addReviewers: true
+addAssignees: true
+reviewers:
+  - fwartner
+skipKeywords:
+  - wip
+numberOfReviewers: 0
